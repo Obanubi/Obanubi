@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Obanubi
 - 👀 I’m interested in learning new skills and writting more codes
-- 🌱 I’m currently learning JAVASCRIPT
+- 🌱 I’m currently learning JAVASCRIPT, NODE.JS
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me obanubiraphael@gmail.com   07054876153
 - 😄 Pronouns: ...
